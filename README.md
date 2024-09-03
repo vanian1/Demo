@@ -1,4 +1,4 @@
 # Demo
-First repository
+First repository.
 <br>
 Code will continue.
